@@ -1,4 +1,4 @@
-# FlyingWhale Airline Case Study
+![image](https://github.com/user-attachments/assets/205df250-ad93-41c1-8b5e-fa1efb0d7cff)![image](https://github.com/user-attachments/assets/bd1ee4a4-1730-4b9d-9237-9138cfcb5b58)![image](https://github.com/user-attachments/assets/645ace87-ae3f-4f4f-ab27-07e7a78f3087)![image](https://github.com/user-attachments/assets/a39482e5-766a-4c6d-a1f2-1fd9ae835035)# FlyingWhale Airline Case Study
 
 ## Table of Contents
 
@@ -31,15 +31,25 @@ This report presents a comprehensive analysis of FlyingWhale Airline's customer 
   - A strong positive correlation exists between flight distance and loyalty points accumulated.
   - Members traveling with companions redeem significantly more loyalty points, especially in groups of 10.
 
+    ![image](https://github.com/user-attachments/assets/9a470b1c-565b-4012-84d6-1ba825440dbf)
+
+
 - **Loyalty Segmentation:**
   - The Star loyalty card tier has the highest number of flights booked.
   - Males book slightly more flights than females, particularly with the Star loyalty card.
   - Married individuals and bachelor students constitute the largest segments of loyalty members.
 
+    ![image](https://github.com/user-attachments/assets/6a2ec337-858f-49b7-91d9-ed7a17a6ff8b)
+
+
 - **Enrollment and Cancellation Trends:**
   - Cancellations have increased exponentially, peaking in December, August, and November.
   - New Brunswick members have the longest average enrollment duration.
   - Married and bachelor students exhibit the highest cancellation rates.
+
+
+    ![image](https://github.com/user-attachments/assets/7694c430-3715-4342-935e-dea0f3096428)
+
 
 **Recommendations:** Focus on enhancing customer retention, optimizing the loyalty program, and targeting specific customer segments to improve overall performance.
 
@@ -76,6 +86,9 @@ Two primary datasets were analyzed:
 #### Visualization:
 Line chart depicting monthly bookings, sorted chronologically to ensure proper month sequencing, with year as the label.
 
+![image](https://github.com/user-attachments/assets/810f5734-57ee-474c-8e47-529f0da79aee)
+
+
 ### Correlation Between Flight Distance and Loyalty Points Accumulated
 
 #### Findings:
@@ -88,6 +101,9 @@ Line chart depicting monthly bookings, sorted chronologically to ensure proper m
 
 #### Visualization:
 Scatter plot with a trend line demonstrating the positive correlation between distance and points accumulated.
+
+![image](https://github.com/user-attachments/assets/4070d8aa-c4cc-4ee4-81a2-e02e2a82a4e2)
+
 
 ### Impact of Companion Bookings on Loyalty Points Redeemed
 
@@ -102,6 +118,9 @@ Scatter plot with a trend line demonstrating the positive correlation between di
 
 #### Visualization:
 Bar charts showing points redeemed across different numbers of companions.
+
+![image](https://github.com/user-attachments/assets/0b6d497c-bfca-4566-bebd-0fc094f29cb8)
+
 
 ## Loyalty Segmentation
 
@@ -119,6 +138,9 @@ Bar charts showing points redeemed across different numbers of companions.
 
 #### Visualization:
 Line charts displaying total flights by loyalty card across months.
+
+![image](https://github.com/user-attachments/assets/33dadbfd-88e3-47af-b50d-e5e8018135d0)
+
 
 ### Demographics and Customer Behaviors
 
@@ -143,6 +165,9 @@ Line charts displaying total flights by loyalty card across months.
 - Pie chart showing flights booked by loyalty card and gender.
 - Pie chart depicting loyalty members by marital status.
 
+  ![image](https://github.com/user-attachments/assets/8cde55e8-5421-4efe-86c4-48371ea88297)
+
+
 ### Customer Lifetime Value (CLV) Across Loyalty Segments
 
 #### Findings:
@@ -155,6 +180,9 @@ Line charts displaying total flights by loyalty card across months.
 
 #### Visualization:
 Pie charts showing CLV trends across loyalty segments.
+
+![image](https://github.com/user-attachments/assets/f7320dd1-d182-4283-9003-953d541ee434)
+
 
 ## Enrollment and Cancellation Trends
 
@@ -171,6 +199,9 @@ Pie charts showing CLV trends across loyalty segments.
 #### Visualization:
 Map visualization highlighting average enrollment duration by province.
 
+![image](https://github.com/user-attachments/assets/cd000934-62a3-4527-b322-3e28b97a6005)
+
+
 ### Popular Months for Cancellations
 
 #### Findings:
@@ -183,6 +214,9 @@ Map visualization highlighting average enrollment duration by province.
 
 #### Visualization:
 Column charts displaying cancellations by month over several years.
+
+![image](https://github.com/user-attachments/assets/821829b2-cb83-49a2-aff4-001bd74c2dd8)
+
 
 ### Cancellations by Education and Marital Status
 
@@ -198,6 +232,9 @@ Column charts displaying cancellations by month over several years.
 #### Visualization:
 Clustered bar charts showing cancellations by education level and marital status.
 
+![image](https://github.com/user-attachments/assets/445194c3-d0b9-4626-9183-fc489c630afb)
+
+
 ### Loyalty Card Members with Lowest Enrollment Duration
 
 #### Findings:
@@ -210,6 +247,9 @@ Clustered bar charts showing cancellations by education level and marital status
 
 #### Visualization:
 Bar charts showing minimum enrollment duration by loyalty card tier.
+
+![image](https://github.com/user-attachments/assets/47a1ab1c-a2a5-4076-8527-8105ddf32f6e)
+
 
 ## Recommendations
 
