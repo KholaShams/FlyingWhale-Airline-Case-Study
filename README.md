@@ -167,7 +167,8 @@ Line charts displaying total flights by loyalty card across months.
 - Pie chart showing flights booked by loyalty card and gender.
 - Pie chart depicting loyalty members by marital status.
 
-  ![image](https://github.com/user-attachments/assets/8cde55e8-5421-4efe-86c4-48371ea88297)
+![image](https://github.com/user-attachments/assets/06c1efdb-6ed9-4797-b2b4-46c6badf04b8)
+
 
 
 ### Customer Lifetime Value (CLV) Across Loyalty Segments
@@ -183,7 +184,7 @@ Line charts displaying total flights by loyalty card across months.
 #### Visualization:
 Pie charts showing CLV trends across loyalty segments.
 
-![image](https://github.com/user-attachments/assets/f7320dd1-d182-4283-9003-953d541ee434)
+![image](https://github.com/user-attachments/assets/18201de5-8d7c-430f-9938-b6fec3a46ac8)
 
 
 ## Enrollment and Cancellation Trends
