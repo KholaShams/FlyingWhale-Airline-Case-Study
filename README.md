@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/205df250-ad93-41c1-8b5e-fa1efb0d7cff)![image](https://github.com/user-attachments/assets/bd1ee4a4-1730-4b9d-9237-9138cfcb5b58)![image](https://github.com/user-attachments/assets/645ace87-ae3f-4f4f-ab27-07e7a78f3087)![image](https://github.com/user-attachments/assets/a39482e5-766a-4c6d-a1f2-1fd9ae835035)# FlyingWhale Airline Case Study
+# FlyingWhale Airline Case Study
+![Black and White Monogram Business Logo](https://github.com/user-attachments/assets/8fe47b0b-6b16-44ae-8730-874acd743695)
+
 
 ## Table of Contents
 
