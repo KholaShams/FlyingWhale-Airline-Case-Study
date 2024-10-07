@@ -31,6 +31,7 @@ This report presents a comprehensive analysis of FlyingWhale Airline's customer 
   - July is the peak month for flight bookings, particularly in 2017 and 2018.
   - A strong positive correlation exists between flight distance and loyalty points accumulated.
   - Members traveling with companions redeem significantly more loyalty points, especially in groups of 10.
+
     ![image](https://github.com/user-attachments/assets/9f10b0f7-c9a8-4d30-8d34-46b279d5caba)
 
 
@@ -38,14 +39,16 @@ This report presents a comprehensive analysis of FlyingWhale Airline's customer 
   - The Star loyalty card tier has the highest number of flights booked.
   - Males book slightly more flights than females, particularly with the Star loyalty card.
   - Married individuals and bachelor students constitute the largest segments of loyalty members.
-    ![image](https://github.com/user-attachments/assets/9807016e-cf2c-451e-bb3b-687113876966)
+
+     ![image](https://github.com/user-attachments/assets/9807016e-cf2c-451e-bb3b-687113876966)
 
 
 - **Enrollment and Cancellation Trends:**
   - Cancellations have increased exponentially, peaking in December, August, and November.
   - New Brunswick members have the longest average enrollment duration.
   - Married and bachelor students exhibit the highest cancellation rates.
-    ![image](https://github.com/user-attachments/assets/9dbb23df-608c-41af-a770-ddfcc15702c8)
+
+     ![image](https://github.com/user-attachments/assets/9dbb23df-608c-41af-a770-ddfcc15702c8)
 
 
 **Recommendations**:
